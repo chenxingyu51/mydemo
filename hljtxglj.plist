@@ -12,7 +12,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://113.5.32.38:8070/download/hljtxglj.ipa</string>  
+					<string>https://swx.chinaunicom.cn/apps/swx/zsc/ios/3.13/swxzsc.ipa</string>  
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -34,7 +34,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>cn.com.cucsi.txglj</string> 
+				<string>cn.cuc.suiwoxing.product</string> 
 				<key>bundle-version</key>
 				<string>1.80</string>
 				<key>kind</key>
